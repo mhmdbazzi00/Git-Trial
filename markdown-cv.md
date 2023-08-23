@@ -1,5 +1,5 @@
 
-<img src="Ifile:///home/mohammadbazzi/markdown-cv/markdown-cv/IMG_20230731_071738_161.jpg"  alt="image"/>
+![Link Name](file:///home/mohammadbazzi/markdown-cv/markdown-cv/IMG_20230731_071738_161.jpg)  
 \**MOHAMMAD BAZZI![](Aspose.Words.2720f138-1603-4758-8286-7d688435ba01.001.png)**
 
 B U S I N E S S  M A N A G M E N T
