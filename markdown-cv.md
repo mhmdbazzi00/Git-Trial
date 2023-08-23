@@ -1,4 +1,5 @@
 
+<img src="IMG_20230731_071738_161.jpg" alt=""/>
 \**MOHAMMAD BAZZI![](Aspose.Words.2720f138-1603-4758-8286-7d688435ba01.001.png)**
 
 B U S I N E S S  M A N A G M E N T
@@ -45,7 +46,7 @@ Assisting people with mental illness Statistical studying of suicide rate
 
 **HEALTH & LIFE INSURANCE AGENT** Bankers Life Company
 
-April 2020 - July 
+April 2020 - July 2020
 
 Selling health insurance plans Attending lectures
 
